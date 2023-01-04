@@ -1,0 +1,20 @@
+{
+  "name": "cypress-sound",
+  "version": "0.0.1",
+  "description": "A Plugin that play alerts whenever a run stop or is done.",
+  "main": "index.js",
+  "keywords": [
+    "cypress",
+    "plugin",
+    "Alerts"
+  ],
+  "author": "Renan Paixão <renanlemos21@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RenanPaixao/cypress-sound/issues"
+  },
+  "homepage": "https://github.com/RenanPaixao/cypress-sound#readme",
+  "devDependencies": {
+    "cypress": "9.3.1"
+  }
+}
