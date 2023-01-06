@@ -1,5 +1,8 @@
 /// <reference types="cypress" />
 
 after(()=>{
-	// TODO: get path to the sound file an run it with cypress
+	cy.readFile('src/assets/notification.mp3', 'base64').then((sound)=>{
+		const audio = new Audio(`data:audio/mp3;base64,${sound}`)
+		audio.play()
+	})
 })
