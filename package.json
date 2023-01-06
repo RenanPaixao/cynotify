@@ -15,6 +15,7 @@
   },
   "homepage": "https://github.com/RenanPaixao/cypress-sound#readme",
   "devDependencies": {
-    "cypress": "9.3.1"
+    "cypress": "9.3.1",
+    "jsdocs": "^1.0.0"
   }
 }

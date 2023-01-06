@@ -1,2 +1,3 @@
 import './commands'
-import '../../src'
+import cypressSound from '../../src'
+cypressSound({stop: true})
