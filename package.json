@@ -1,7 +1,7 @@
 {
-  "name": "cypress-sound",
-  "version": "0.0.1",
-  "description": "A Plugin that play alerts whenever a run stop or is done.",
+  "name": "cynotify",
+  "version": "1.0.0",
+  "description": "A command to play alerts in cypress.",
   "main": "index.js",
   "keywords": [
     "cypress",
