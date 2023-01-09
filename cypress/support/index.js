@@ -1,2 +1,2 @@
 import './commands'
-import '../../src'
+import 'cynotify'
