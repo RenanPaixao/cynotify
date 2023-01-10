@@ -303,11 +303,6 @@ cross-spawn@^7.0.0:
     shebang-command "^2.0.0"
     which "^2.0.1"
 
-cynotify@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/cynotify/-/cynotify-1.0.0.tgz#6e702505747f07df7cca0d0ae6693ddf37a4e89f"
-  integrity sha512-CJhAqB2CbadxNA9gma+tXCVJfEdIONP4iQ8JI1Ll+GFs1b6vZUccEXOqs9J/f/eD0zhL7S5UHJMTtT/ngHyaTQ==
-
 cypress@9.3.1:
   version "9.3.1"
   resolved "https://registry.yarnpkg.com/cypress/-/cypress-9.3.1.tgz#8116f52d49d6daf90a91e88f3eafd940234d2958"
