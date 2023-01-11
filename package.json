@@ -1,6 +1,6 @@
 {
   "name": "cynotify",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A command to play alerts in cypress.",
   "main": "index.js",
   "keywords": [
@@ -14,9 +14,9 @@
   "author": "Renan Paixão <renanlemos21@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RenanPaixao/cypress-sound/issues"
+    "url": "https://github.com/RenanPaixao/cynotify/issues"
   },
-  "homepage": "https://github.com/RenanPaixao/cypress-sound#readme",
+  "homepage": "https://github.com/RenanPaixao/cynotify#readme",
   "devDependencies": {
     "cypress": "9.3.1"
   },
