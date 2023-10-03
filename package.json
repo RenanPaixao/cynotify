@@ -1,6 +1,6 @@
 {
   "name": "cynotify",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A command to play alerts in cypress.",
   "main": "index.js",
   "keywords": [
